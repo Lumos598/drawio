@@ -273,8 +273,8 @@
         <mxCell id="rH-5OL1kYu_r9igjsGon-520" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.76;dx=18.55;notch=7.74;feather=0.49;rotation=90;aspect=fixed;fillColor=#FFF2CC;strokeColor=#FFCE9F;fontColor=#242424;" parent="1" vertex="1">
           <mxGeometry x="161.51999999999998" y="-777.97" width="46.96" height="30.98" as="geometry" />
         </mxCell>
-        <mxCell id="rH-5OL1kYu_r9igjsGon-615" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model Aggregation Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="384.5" y="-581" width="286" height="43" as="geometry" />
+        <mxCell id="rH-5OL1kYu_r9igjsGon-615" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model Parameter Aggregation Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="333.5" y="-581" width="389" height="43" as="geometry" />
         </mxCell>
         <mxCell id="rH-5OL1kYu_r9igjsGon-684" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rH-5OL1kYu_r9igjsGon-331" target="ipxWhFgHdUj-HXUA2bHc-238" edge="1">
           <mxGeometry relative="1" as="geometry" />
