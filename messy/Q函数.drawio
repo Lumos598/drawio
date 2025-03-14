@@ -75,6 +75,14 @@
         <mxCell id="fV-NQ48F4rtR7al6jr1f-17" value="节点i" style="rounded=1;whiteSpace=wrap;html=1;fontSize=55;fontFamily=楷体;fillColor=light-dark(#E4EEFD,var(--ge-dark-color, #121212));strokeColor=#BED2F0;" vertex="1" parent="1">
           <mxGeometry x="-874" y="1161.5" width="224" height="116" as="geometry" />
         </mxCell>
+        <mxCell id="fV-NQ48F4rtR7al6jr1f-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeWidth=5;" edge="1" parent="1" source="fV-NQ48F4rtR7al6jr1f-18" target="fV-NQ48F4rtR7al6jr1f-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1425" y="1323" />
+              <mxPoint x="-1425" y="1666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fV-NQ48F4rtR7al6jr1f-18" value="更新规则" style="rounded=0;whiteSpace=wrap;html=1;fontSize=55;fontFamily=楷体;fillColor=light-dark(#E4EEFD,var(--ge-dark-color, #121212));strokeColor=#BED2F0;" vertex="1" parent="1">
           <mxGeometry x="-1288" y="1264.5" width="224" height="116" as="geometry" />
         </mxCell>
