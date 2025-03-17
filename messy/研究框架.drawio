@@ -13,7 +13,7 @@
             <mxPoint x="170.000909090909" y="149.75272727272724" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-11" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;鲁棒的非集中式联邦学习&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-11" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;鲁棒的非集中式联邦学习&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="190.000909090909" y="120.00272727272724" width="877" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDKeScB1y4_EoyUzjA0F-12" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;研究&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;目标&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="aDKeScB1y4_EoyUzjA0F-33" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24.000002px;&quot;&gt;建立数据异质与拜占庭攻击&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24.000002px;&quot;&gt;之间的特征解耦理论&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFFFF9;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="649" y="579.5" width="392" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-34" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;Fashion-MNIST/CIFAR-100等数据集&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;进行算法验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-34" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Fashion-MNIST/CIFAR-100等数据集&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;进行算法验证&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="189" y="726" width="877" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aDKeScB1y4_EoyUzjA0F-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
