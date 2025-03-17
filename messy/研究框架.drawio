@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="CUIRnP8APS25mf9R00Ao">
     <mxGraphModel dx="2074" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,40 +100,40 @@
         <mxCell id="aDKeScB1y4_EoyUzjA0F-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="189.000909090909" y="886.0027272727273" width="877" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#E63F1E;strokeColor=#B3B3B3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-11" edge="1" target="aDKeScB1y4_EoyUzjA0F-22">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#E63F1E;strokeColor=#B3B3B3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-11" target="aDKeScB1y4_EoyUzjA0F-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="486.000909090909" y="190.00272727272724" as="sourcePoint" />
             <mxPoint x="486.000909090909" y="230.00272727272724" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="aDKeScB1y4_EoyUzjA0F-26" source="aDKeScB1y4_EoyUzjA0F-22">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-22" target="aDKeScB1y4_EoyUzjA0F-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="627.000909090909" y="355.00272727272727" as="sourcePoint" />
             <mxPoint x="627.000909090909" y="391.00272727272727" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="aDKeScB1y4_EoyUzjA0F-30" source="aDKeScB1y4_EoyUzjA0F-26">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-26" target="aDKeScB1y4_EoyUzjA0F-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="624.000909090909" y="522.0027272727273" as="sourcePoint" />
             <mxPoint x="624.000909090909" y="558.0027272727273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="aDKeScB1y4_EoyUzjA0F-34" source="aDKeScB1y4_EoyUzjA0F-30">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#E63F1E;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-30" target="aDKeScB1y4_EoyUzjA0F-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="631.000909090909" y="695.0027272727273" as="sourcePoint" />
             <mxPoint x="631.000909090909" y="731.0027272727273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#E63F1E;strokeColor=#B3B3B3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="aDKeScB1y4_EoyUzjA0F-35" source="aDKeScB1y4_EoyUzjA0F-34">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#E63F1E;strokeColor=#B3B3B3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aDKeScB1y4_EoyUzjA0F-34" target="aDKeScB1y4_EoyUzjA0F-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="617.3609090909091" y="842.3127272727274" as="sourcePoint" />
             <mxPoint x="617.000909090909" y="886.0027272727273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aDKeScB1y4_EoyUzjA0F-42" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;建立一套系统性的鲁棒的非集中式联邦学习解决框架&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="aDKeScB1y4_EoyUzjA0F-42" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 26px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;建立一套系统性的面向信息异步、&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 26px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;数据异质的鲁棒非集中式联邦学习解决框架&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="188.000909090909" y="931.0027272727273" width="877" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="40GSvqzJZV5A0AbQHkRz-1" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: x-large;&quot;&gt;大语言模型微调下的鲁棒非集中式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: x-large;&quot;&gt;联邦学习&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="40GSvqzJZV5A0AbQHkRz-1" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: x-large;&quot;&gt;大语言模型微调下的鲁棒非集中式&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: x-large;&quot;&gt;联邦学习&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="849" y="401" width="211" height="105" as="geometry" />
         </mxCell>
       </root>
