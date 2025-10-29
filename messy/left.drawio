@@ -106,7 +106,7 @@
           <mxGeometry x="36" y="55.5" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-77" value="甲采用APCL&lt;div&gt;乙采用其它策略&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=仿宋;" parent="1" vertex="1">
-          <mxGeometry x="18.999999999999993" y="-67.5" width="160.65" height="30" as="geometry" />
+          <mxGeometry x="33" y="-67.5" width="143.65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-78" value="甲" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=仿宋;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="172.59" y="-137" width="39" height="31" as="geometry" />
