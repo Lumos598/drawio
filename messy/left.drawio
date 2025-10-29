@@ -109,16 +109,13 @@
           <mxGeometry x="38" y="36.5" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-77" value="甲采用APCL&lt;div&gt;乙采用其它策略&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=仿宋;" parent="1" vertex="1">
-          <mxGeometry x="23.529999999999994" y="-140" width="160.65" height="30" as="geometry" />
+          <mxGeometry x="20.999999999999993" y="-86.5" width="160.65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-78" value="甲" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=仿宋;" parent="1" vertex="1">
           <mxGeometry x="174.59" y="-156" width="39" height="31" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-79" value="乙" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=仿宋;" parent="1" vertex="1">
           <mxGeometry x="283" y="-156" width="39" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="i5PhcuMA6pipmDb3_U37-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=28.33;notch=0;fillColor=#2D73B4;strokeColor=none;fontFamily=仿宋;" parent="1" vertex="1">
-          <mxGeometry x="348.19" y="-81" width="68" height="43" as="geometry" />
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-89" value="" style="group;fontFamily=仿宋;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="395" y="-140" width="161" height="158" as="geometry" />
@@ -143,6 +140,9 @@
         </mxCell>
         <mxCell id="i5PhcuMA6pipmDb3_U37-88" value="乙" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=仿宋;" parent="i5PhcuMA6pipmDb3_U37-89" vertex="1">
           <mxGeometry x="123.7911111111111" y="129.49803921568628" width="37.208888888888886" height="28.501960784313727" as="geometry" />
+        </mxCell>
+        <mxCell id="i5PhcuMA6pipmDb3_U37-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=30.14;notch=0;fillColor=#A680B8;strokeColor=none;fontFamily=仿宋;" parent="i5PhcuMA6pipmDb3_U37-89" vertex="1">
+          <mxGeometry x="-32" y="70" width="50" height="31" as="geometry" />
         </mxCell>
         <mxCell id="la1NzlUfRjiEyi02xISN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="41" y="-350" width="315" height="123" as="geometry" />
