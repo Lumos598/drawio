@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="第 1 页" id="MYHzIFBZrzkUozVnb4OO">
-    <mxGraphModel dx="1384" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,24 @@
         </mxCell>
         <mxCell id="d-oLJDTJBGj6mH4gRLIz-193" parent="d-oLJDTJBGj6mH4gRLIz-196" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=10;container=0;" value="Benign client" vertex="1">
           <mxGeometry height="24" width="75" x="21" y="2.9499999999999886" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-197" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFF4C3;strokeColor=#FFCE9F;" value="" vertex="1">
+          <mxGeometry height="191" width="303" x="91" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#D5E8D4;strokeColor=#9AC7BF;" value="" vertex="1">
+          <mxGeometry height="191" width="303" x="91" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-201" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#C3ABD0;glass=0;sketch=1;curveFitting=1;jiggle=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="391" width="289" x="400" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="(a) SVD-based Structure-aware Module" vertex="1">
+          <mxGeometry height="26" width="229" x="123" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="(b) xxx-based Geometry-aware Module" vertex="1">
+          <mxGeometry height="26" width="226" x="124.5" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="d-oLJDTJBGj6mH4gRLIz-204" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="(c) xxx-based Aggregation Module" vertex="1">
+          <mxGeometry height="26" width="200" x="444.5" y="256.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
