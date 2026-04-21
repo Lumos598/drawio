@@ -215,9 +215,6 @@
         <mxCell id="d-oLJDTJBGj6mH4gRLIz-158" parent="d-oLJDTJBGj6mH4gRLIz-186" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="GNNs" vertex="1">
           <mxGeometry height="26" width="51" x="99.5" y="79.25000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="d-oLJDTJBGj6mH4gRLIz-189" edge="1" parent="d-oLJDTJBGj6mH4gRLIz-186" source="d-oLJDTJBGj6mH4gRLIz-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d-oLJDTJBGj6mH4gRLIz-169" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="d-oLJDTJBGj6mH4gRLIz-164" parent="d-oLJDTJBGj6mH4gRLIz-186" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Embeddings" vertex="1">
           <mxGeometry height="26" width="85" x="177.5" y="36.54000000000008" as="geometry" />
         </mxCell>
