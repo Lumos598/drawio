@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="OS2WDZnSpGSBNR1nsJOn">
-    <mxGraphModel dx="1226" dy="227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
         <mxCell id="oQeN03Tgg0EhqOYfVtFw-232" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;direction=north;fontFamily=Times New Roman;size=0.29258421616474184;" value="" vertex="1">
           <mxGeometry height="5.54" width="83" x="-597.77" y="132.86" as="geometry" />
         </mxCell>
-        <mxCell id="oQeN03Tgg0EhqOYfVtFw-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=7;" value="Coarse-gained Aggregation" vertex="1">
+        <mxCell id="oQeN03Tgg0EhqOYfVtFw-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=7;" value="Coarse-grained Aggregation" vertex="1">
           <mxGeometry height="7.51" width="87" x="-599.7" y="138.4" as="geometry" />
         </mxCell>
         <mxCell id="oQeN03Tgg0EhqOYfVtFw-307" parent="1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#B68C02;opacity=80;rotation=0;strokeWidth=0.5;fontFamily=Times New Roman;fillColor=#FFFBED;" value="" vertex="1">
